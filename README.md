@@ -4,13 +4,13 @@ A simple **Palindrome Checker web app** built with **HTML, CSS, and JavaScript**
 It takes user input and checks whether the text is a **palindrome** (same forwards and backwards).  
 
 ## 🚀 Live Demo  
-[Click here to view the demo](https://yourusername.github.io/palindrome-checker/)  
+[Click here to view the demo]( https://kenithleon.github.io/palindrome-checker/)  
 
-*(Replace `yourusername` with your GitHub username after publishing.)*  
+
 
 ## 📸 Preview  
-![App Screenshot](screenshot.png)  
-*(Take a screenshot of your app, save it as `screenshot.png` in your repo, and it will display here.)*  
+![App Screenshot](https://github.com/kenithleon/palindrome-checker/blob/e1cd21f824098598aebdbb552df6dd663a0ada88/Screenshot%202025-09-08%20183239.png)  
+
 
 ## ✨ Features  
 - 📝 Accepts user input  
