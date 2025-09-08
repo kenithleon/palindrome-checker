@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    text-align: center;
+     margin-top: 200px;
+}
+
+h1{
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+#input{
+   padding: 10px 20px;
+    max-width: 200px;
+    font-size: 3rem;
+    border-radius: 10px;
+    position: relative;
+    top: 20px;
+ 
+    outline: none;
+    border: none;
+    font-weight: bolder;
+    text-align:justify;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    
+    font-size: large;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    font-weight: bolder;
+    font-size:large;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+    top: 70px;
+}
+
